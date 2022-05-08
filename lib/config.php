@@ -4,7 +4,7 @@
 
         return array(
             'host'=>'localhost',
-            'user'=>'root',
-            'password'=>'12345',
+            'user'=>'root',         //用户名请自己更改
+            'password'=>'12345',   
             'database'=>'evil',
         );
